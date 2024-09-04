@@ -139,6 +139,9 @@ sections:
       - type: Label
         label: 'AWS, Azure'
       - type: Label
+        label: Azure
+        url: ''
+      - type: Label
         label: 'Terraform, CloudFormation'
       - type: Label
         label: 'Jenkins, Ansible, Docker, Kubernetes'
