@@ -184,7 +184,7 @@ sections:
         label: Flask
         url: ''
       - type: Label
-        label: ' PostgreSQL, MySQL, Git, GitHub, GitLab'
+        label: ' PostgreSQL'
   - type: DividerSection
     styles:
       self:
