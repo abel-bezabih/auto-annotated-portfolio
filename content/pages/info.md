@@ -94,11 +94,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions: []
-        styles:
-          self:
-            textAlign: left
     columns: 3
     spacingX: 8
     spacingY: 0
