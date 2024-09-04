@@ -147,6 +147,9 @@ sections:
       - type: Label
         label: Terraform
       - type: Label
+        label: Ansible
+        url: ''
+      - type: Label
         label: Jenkins
       - type: Label
         label: 'IAM, Security Groups, VPC, Encryption'
