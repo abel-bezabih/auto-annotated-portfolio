@@ -75,6 +75,7 @@ sections:
             label: GitHub
             url: 'https://github.com/abel-bezabih'
             showIcon: true
+            icon: github
         styles:
           self:
             textAlign: left
