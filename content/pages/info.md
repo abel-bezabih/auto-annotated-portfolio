@@ -241,7 +241,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: "**Until Jul 2024**\n\n*   Cloud System Administrator\n\n    *@DoWell Labs, UK Ltd\_(Remote)*\n\n***Jul 2022 - Jan 2023***\n\n*   Backend Developer - Django Framework\n\n    *@INFOSYS,* India (*Remote)*\n\n***Dec 2021 - June 2022***\n\n*   Python Developer - Cloud Role\n\n    *@Quantum Technologies*\n\n***Dec 2021 - June 2022***\n\n*   Python Developer - Odoo ERP\n\n    *@Rened PLC (Remote)*\n\n"
+        text: "**Until Jul 2024**\n\n*   Cloud System Administrator\n\n    *@DoWell Labs, UK Ltd\_(Remote)*\n\n***Jul 2022 - Jan 2023***\n\n*   Backend Developer - Django Framework\n\n    *@INFOSYS,* India (*Remote)*\n\n***Jul 2021 - June 2022***\n\n*   Python Developer - Cloud Role\n\n    *@Quantum Technologies*\n\n***Oct 2020 - June 2021***\n\n*   Python Developer - Odoo ERP\n\n    *@Rened PLC (Remote)*\n\n"
         styles:
           self:
             textAlign: left
