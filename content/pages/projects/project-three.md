@@ -8,7 +8,7 @@ description: >-
   Daycare is a cross-platform mobile app built with Flutter, JavaScript, and
   Firebase. It streamlines daycare management with features like real-time
   updates, parent-teacher communication, and attendance tracking. The app
-  enhances user engagement and simplifies administrative tasks.
+  enhances user engagement and simplifies administrative tasks. Cool right :)
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
