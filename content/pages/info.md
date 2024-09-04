@@ -157,6 +157,9 @@ sections:
         label: AWS Shield
         url: ''
       - type: Label
+        label: DynamoDB
+        url: ''
+      - type: Label
         label: CloudFormation
         url: ''
       - type: Label
