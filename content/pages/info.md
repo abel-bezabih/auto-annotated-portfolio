@@ -111,6 +111,15 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
+    actions:
+      - type: Link
+        label: Learn more
+        altText: ''
+        url: /discord.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     styles:
       self:
