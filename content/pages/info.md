@@ -145,7 +145,7 @@ sections:
       - type: Label
         label: 'IAM, Security Groups, VPC, Encryption'
       - type: Label
-        label: Netlify
+        label: 'CloudWatch, Grafana, Prometheus'
       - type: Label
         label: Pancakes
       - type: Label
