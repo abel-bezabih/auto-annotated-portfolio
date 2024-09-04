@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/124df7b47679f5f7d917.png
   altText: Project image
 ---
 Developed **Daycare**, a cross-platform mobile application designed for managing children's daycare services. The app offers a range of features tailored to parents, teachers, and administrators, including:
