@@ -147,6 +147,9 @@ sections:
       - type: Label
         label: Terraform
       - type: Label
+        label: Kubernetes
+        url: ''
+      - type: Label
         label: Docker
         url: ''
       - type: Label
