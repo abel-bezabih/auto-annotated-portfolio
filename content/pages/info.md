@@ -147,7 +147,7 @@ sections:
       - type: Label
         label: 'CloudWatch, Grafana, Prometheus'
       - type: Label
-        label: Pancakes
+        label: 'Python, Bash, PowerShell'
       - type: Label
         label: C++
       - type: Label
