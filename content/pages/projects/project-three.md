@@ -11,7 +11,7 @@ description: >-
   enhances user engagement and simplifies administrative tasks. Cool right :)
 featuredImage:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/124df7b47679f5f7d917.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
