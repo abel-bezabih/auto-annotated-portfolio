@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: DayCare Management Mobile Application
+title: Android & iOS Application
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
