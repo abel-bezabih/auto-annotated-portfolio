@@ -163,6 +163,9 @@ sections:
       - type: Label
         label: IAM
       - type: Label
+        label: VPC
+        url: ''
+      - type: Label
         label: 'CloudWatch, Grafana, Prometheus'
       - type: Label
         label: 'Python, Bash, PowerShell'
