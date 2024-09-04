@@ -36,17 +36,22 @@ sections:
           - ml-0
           - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-36
+          - pb-48
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row-reverse
+        borderWidth: 1
       title:
         textAlign: left
       subtitle:
         textAlign: left
+      text:
+        textAlign: left
       actions:
-        justifyContent: flex-end
+        justifyContent: flex-start
     subtitle: Projects
   - elementId: ''
     colors: colors-f
