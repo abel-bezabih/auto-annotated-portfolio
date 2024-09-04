@@ -188,6 +188,9 @@ sections:
       - type: Label
         label: MySQL
         url: ''
+      - type: Label
+        label: Git
+        url: ''
   - type: DividerSection
     styles:
       self:
