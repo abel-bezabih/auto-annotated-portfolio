@@ -147,7 +147,7 @@ sections:
       - type: Label
         label: Terraform
       - type: Label
-        label: 'Jenkins, Ansible, Docker, Kubernetes'
+        label: Jenkins
       - type: Label
         label: 'IAM, Security Groups, VPC, Encryption'
       - type: Label
