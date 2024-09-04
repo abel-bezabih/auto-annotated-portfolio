@@ -166,7 +166,7 @@ sections:
         label: VPC
         url: ''
       - type: Label
-        label: 'CloudWatch, Grafana, Prometheus'
+        label: CloudWatch
       - type: Label
         label: 'Python, Bash, PowerShell'
       - type: Label
