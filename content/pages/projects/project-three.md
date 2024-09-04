@@ -5,9 +5,10 @@ colors: colors-a
 date: '2022-01-22'
 client: STARTUP COMPANY
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  Daycare is a cross-platform mobile app built with Flutter, JavaScript, and
+  Firebase. It streamlines daycare management with features like real-time
+  updates, parent-teacher communication, and attendance tracking. The app
+  enhances user engagement and simplifies administrative tasks.
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
