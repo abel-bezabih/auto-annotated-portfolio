@@ -177,6 +177,9 @@ sections:
         label: Javascript
         url: ''
       - type: Label
+        label: C++
+        url: ''
+      - type: Label
         label: Python3
       - type: Label
         label: Bash
