@@ -372,7 +372,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me how I can help your business
           isRequired: true
           width: full
           type: TextareaFormControl
