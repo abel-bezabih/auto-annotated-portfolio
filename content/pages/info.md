@@ -100,7 +100,7 @@ sections:
           self:
             textAlign: left
     columns: 3
-    spacingX: 76
+    spacingX: 17
     spacingY: 0
     styles:
       self:
