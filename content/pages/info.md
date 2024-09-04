@@ -149,7 +149,7 @@ sections:
       - type: Label
         label: 'Python, Bash, PowerShell'
       - type: Label
-        label: C++
+        label: 'Django, Flask'
       - type: Label
         label: Swift
   - type: DividerSection
