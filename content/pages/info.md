@@ -90,7 +90,7 @@ sections:
           self:
             textAlign: left
     columns: 3
-    spacingX: 8
+    spacingX: 0
     spacingY: 0
     styles:
       self:
