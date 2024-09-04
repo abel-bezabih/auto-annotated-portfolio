@@ -142,6 +142,9 @@ sections:
         label: Azure
         url: ''
       - type: Label
+        label: Route 53
+        url: ''
+      - type: Label
         label: RDS
         url: ''
       - type: Label
