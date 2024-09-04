@@ -241,26 +241,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+        text: "**Until Jul 2024**\n\n*   Cloud System Administrator\n\n    *@DoWell Labs, UK Ltd\_(Remote)*\n\n***Jul 2022 - Jan 2023***\n\n*   Backend Developer - Django Framework\n\n    *@INFOSYS,* India (*Remote)*\n\n***Dec 2021 - June 2022***\n\n*   Python Developer - Cloud Role\n\n    *@Quantum Technologies*\n\n***Dec 2021 - June 2022***\n\n*   Python Developer - Odoo ERP\n\n    *@Rened PLC (Remote)*\n\n"
         styles:
           self:
             textAlign: left
