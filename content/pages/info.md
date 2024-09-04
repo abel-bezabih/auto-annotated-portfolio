@@ -154,6 +154,9 @@ sections:
         label: EC2
         url: ''
       - type: Label
+        label: AWS Shield
+        url: ''
+      - type: Label
         label: CloudFormation
         url: ''
       - type: Label
