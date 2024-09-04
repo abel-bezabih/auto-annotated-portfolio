@@ -67,7 +67,7 @@ sections:
         borderWidth: 1
         borderStyle: solid
   - type: FeaturedItemsSection
-    colors: colors-a
+    colors: colors-f
     items:
       - type: FeaturedItem
         actions:
