@@ -220,7 +220,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Email:'
+    subtitle: 'Email Me:'
     colors: colors-f
     text: |
       <chunkyabel@icloud.com>
