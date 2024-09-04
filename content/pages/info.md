@@ -179,7 +179,7 @@ sections:
         label: Bash
         url: ''
       - type: Label
-        label: 'Django, Flask'
+        label: Django
       - type: Label
         label: ' PostgreSQL, MySQL, Git, GitHub, GitLab'
   - type: DividerSection
