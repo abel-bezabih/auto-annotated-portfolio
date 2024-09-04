@@ -176,6 +176,9 @@ sections:
       - type: Label
         label: Python3
       - type: Label
+        label: Bash
+        url: ''
+      - type: Label
         label: 'Django, Flask'
       - type: Label
         label: ' PostgreSQL, MySQL, Git, GitHub, GitLab'
