@@ -101,6 +101,15 @@ sections:
             textAlign: left
       - type: FeaturedItem
         actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /vfgbhnj
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
           - type: Link
             label: Discord
             url: ''
