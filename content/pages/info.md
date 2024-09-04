@@ -160,6 +160,9 @@ sections:
         label: DynamoDB
         url: ''
       - type: Label
+        label: Elastic Beanstalk
+        url: ''
+      - type: Label
         label: CloudFormation
         url: ''
       - type: Label
