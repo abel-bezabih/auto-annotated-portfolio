@@ -99,7 +99,7 @@ sections:
         styles:
           self:
             textAlign: left
-    columns: 2
+    columns: 3
     spacingX: 120
     spacingY: 0
     styles:
