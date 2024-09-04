@@ -14,7 +14,13 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'I’m a Cloud Engineer, Python programmer and Backend developer.'
-    subtitle: ''
+    subtitle: >-
+      Hi, I’m Abel Bezabih, a results-driven Cloud Engineer with expertise in
+      cloud infrastructure design, automation, and integration. With a
+      background in Python development, backend solutions, and extensive
+      experience with AWS and Azure, I help businesses optimize their cloud
+      environment for performance, scalability, and security. Explore my work,
+      projects, and insights on cloud computing.
     styles:
       self:
         height: auto
