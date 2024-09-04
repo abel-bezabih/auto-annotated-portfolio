@@ -106,7 +106,7 @@ sections:
         actions:
           - type: Link
             label: Discord
-            url: 'https://discord.com/abel-bezabih'
+            url: 'https://discord.com/abel_bezabih'
         styles:
           self:
             textAlign: left
