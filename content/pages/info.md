@@ -74,6 +74,7 @@ sections:
           - type: Link
             label: GitHub
             url: 'https://github.com/abel-bezabih'
+            showIcon: true
         styles:
           self:
             textAlign: left
