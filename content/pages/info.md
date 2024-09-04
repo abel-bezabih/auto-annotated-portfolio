@@ -158,7 +158,7 @@ sections:
       - type: Label
         label: Jenkins
       - type: Label
-        label: 'IAM, Security Groups, VPC, Encryption'
+        label: IAM
       - type: Label
         label: 'CloudWatch, Grafana, Prometheus'
       - type: Label
