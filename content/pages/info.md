@@ -99,14 +99,6 @@ sections:
         styles:
           self:
             textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: ''
-        styles:
-          self:
-            textAlign: left
     columns: 3
     spacingX: 120
     spacingY: 0
