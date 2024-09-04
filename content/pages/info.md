@@ -89,6 +89,7 @@ sections:
           - type: Link
             label: LinkedIn
             url: 'https://www.linkedin.com/in/abel-bezabih/'
+            showIcon: true
         styles:
           self:
             textAlign: left
