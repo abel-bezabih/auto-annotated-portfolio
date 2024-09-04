@@ -137,7 +137,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'AWS, Azure'
+        label: AWS
       - type: Label
         label: Azure
         url: ''
