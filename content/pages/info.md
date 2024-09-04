@@ -197,6 +197,9 @@ sections:
       - type: Label
         label: GitLab
         url: ''
+      - type: Label
+        label: Linux
+        url: ''
   - type: DividerSection
     styles:
       self:
