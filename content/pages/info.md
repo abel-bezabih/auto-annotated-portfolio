@@ -142,6 +142,9 @@ sections:
         label: Azure
         url: ''
       - type: Label
+        label: AWS S3
+        url: ''
+      - type: Label
         label: EC2
         url: ''
       - type: Label
