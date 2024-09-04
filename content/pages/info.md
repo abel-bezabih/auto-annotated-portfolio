@@ -230,6 +230,9 @@ sections:
       - type: Label
         label: Linux
         url: ''
+      - type: Label
+        label: Scrum
+        url: ''
   - type: DividerSection
     styles:
       self:
