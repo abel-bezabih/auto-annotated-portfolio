@@ -185,6 +185,9 @@ sections:
         url: ''
       - type: Label
         label: ' PostgreSQL'
+      - type: Label
+        label: MySQL
+        url: ''
   - type: DividerSection
     styles:
       self:
