@@ -168,6 +168,9 @@ sections:
       - type: Label
         label: Terraform
       - type: Label
+        label: Virtual Machines
+        url: ''
+      - type: Label
         label: Kubernetes
         url: ''
       - type: Label
