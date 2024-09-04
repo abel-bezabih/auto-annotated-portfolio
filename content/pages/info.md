@@ -141,7 +141,7 @@ sections:
       - type: Label
         label: Azure
       - type: Label
-        label: Microsoft Office
+        label: Python3
       - type: Label
         label: Next.js
       - type: Label
