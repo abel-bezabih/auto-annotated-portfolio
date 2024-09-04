@@ -143,7 +143,7 @@ sections:
       - type: Label
         label: 'Jenkins, Ansible, Docker, Kubernetes'
       - type: Label
-        label: Django
+        label: 'IAM, Security Groups, VPC, Encryption'
       - type: Label
         label: Netlify
       - type: Label
