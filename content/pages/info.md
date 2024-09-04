@@ -139,7 +139,7 @@ sections:
       - type: Label
         label: AWS
       - type: Label
-        label: React
+        label: Azure
       - type: Label
         label: Microsoft Office
       - type: Label
