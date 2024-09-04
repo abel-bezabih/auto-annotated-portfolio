@@ -13,9 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: >-
-      I’m a Cloud Engineer, Python programmer, Backend developer and a bunch of
-      other impressive titles and buzz words.
+    title: 'I’m a Cloud Engineer, Python programmer and Backend developer.'
     subtitle: >-
       Hi, I’m Abel Bezabih, a results-driven Cloud Engineer with expertise in
       cloud infrastructure design, automation, and integration. With a
