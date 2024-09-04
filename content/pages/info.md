@@ -174,6 +174,9 @@ sections:
         label: Prometheus
         url: ''
       - type: Label
+        label: Javascript
+        url: ''
+      - type: Label
         label: Python3
       - type: Label
         label: Bash
