@@ -217,7 +217,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [chunkyabel@icloud.com](mailto:thisismyemail.@myemail.me)
   - type: DividerSection
     styles:
       self:
