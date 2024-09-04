@@ -143,7 +143,7 @@ sections:
       - type: Label
         label: Python3
       - type: Label
-        label: Next.js
+        label: Django
       - type: Label
         label: Netlify
       - type: Label
