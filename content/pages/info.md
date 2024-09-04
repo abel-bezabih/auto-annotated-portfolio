@@ -137,7 +137,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: AWS
+        label: 'AWS, Azure'
       - type: Label
         label: Azure
       - type: Label
