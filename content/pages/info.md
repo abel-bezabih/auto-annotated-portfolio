@@ -181,6 +181,9 @@ sections:
       - type: Label
         label: Django
       - type: Label
+        label: Flask
+        url: ''
+      - type: Label
         label: ' PostgreSQL, MySQL, Git, GitHub, GitLab'
   - type: DividerSection
     styles:
