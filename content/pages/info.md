@@ -139,7 +139,7 @@ sections:
       - type: Label
         label: 'AWS, Azure'
       - type: Label
-        label: Azure
+        label: 'Terraform, CloudFormation'
       - type: Label
         label: Python3
       - type: Label
