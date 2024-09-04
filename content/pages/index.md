@@ -43,7 +43,7 @@ sections:
         alignItems: center
         justifyContent: center
         flexDirection: row-reverse
-        borderWidth: 1
+        borderStyle: dashed
       title:
         textAlign: left
       subtitle:
