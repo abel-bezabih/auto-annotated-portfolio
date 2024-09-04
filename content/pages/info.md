@@ -171,6 +171,9 @@ sections:
         label: Grafana
         url: ''
       - type: Label
+        label: Prometheus
+        url: ''
+      - type: Label
         label: 'Python, Bash, PowerShell'
       - type: Label
         label: 'Django, Flask'
