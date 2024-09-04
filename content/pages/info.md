@@ -168,6 +168,9 @@ sections:
       - type: Label
         label: CloudWatch
       - type: Label
+        label: Grafana
+        url: ''
+      - type: Label
         label: 'Python, Bash, PowerShell'
       - type: Label
         label: 'Django, Flask'
