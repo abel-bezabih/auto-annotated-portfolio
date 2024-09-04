@@ -151,7 +151,7 @@ sections:
       - type: Label
         label: 'Django, Flask'
       - type: Label
-        label: ' PostgreSQL, MySQL'
+        label: ' PostgreSQL, MySQL,'
   - type: DividerSection
     styles:
       self:
