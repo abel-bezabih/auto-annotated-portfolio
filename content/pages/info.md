@@ -141,7 +141,7 @@ sections:
       - type: Label
         label: 'Terraform, CloudFormation'
       - type: Label
-        label: Python3
+        label: 'Jenkins, Ansible, Docker, Kubernetes'
       - type: Label
         label: Django
       - type: Label
