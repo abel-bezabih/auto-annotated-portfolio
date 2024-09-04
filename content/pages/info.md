@@ -233,6 +233,9 @@ sections:
       - type: Label
         label: Scrum
         url: ''
+      - type: Label
+        label: Kanban
+        url: ''
   - type: DividerSection
     styles:
       self:
