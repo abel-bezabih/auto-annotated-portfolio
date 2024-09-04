@@ -151,6 +151,9 @@ sections:
       - type: Label
         label: 'Django, Flask'
       - type: Label
+        label: Label title
+        url: ''
+      - type: Label
         label: ' PostgreSQL, MySQL'
   - type: DividerSection
     styles:
