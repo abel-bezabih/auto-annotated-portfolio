@@ -191,6 +191,9 @@ sections:
       - type: Label
         label: Git
         url: ''
+      - type: Label
+        label: GitHub
+        url: ''
   - type: DividerSection
     styles:
       self:
