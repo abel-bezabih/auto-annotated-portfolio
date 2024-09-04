@@ -142,6 +142,9 @@ sections:
         label: Azure
         url: ''
       - type: Label
+        label: CloudFormation
+        url: ''
+      - type: Label
         label: Terraform
       - type: Label
         label: 'Jenkins, Ansible, Docker, Kubernetes'
