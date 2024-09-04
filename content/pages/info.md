@@ -174,7 +174,7 @@ sections:
         label: Prometheus
         url: ''
       - type: Label
-        label: Python
+        label: Python3
       - type: Label
         label: 'Django, Flask'
       - type: Label
