@@ -158,6 +158,9 @@ sections:
       - type: Label
         label: Jenkins
       - type: Label
+        label: Encryption
+        url: ''
+      - type: Label
         label: IAM
       - type: Label
         label: 'CloudWatch, Grafana, Prometheus'
