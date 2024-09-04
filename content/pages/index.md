@@ -11,7 +11,7 @@ backgroundImage:
   opacity: 75
 sections:
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     backgroundSize: full
     title: 'I’m a Cloud Engineer, Python programmer and Backend developer.'
     subtitle: >-
