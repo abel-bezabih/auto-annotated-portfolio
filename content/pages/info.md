@@ -113,7 +113,7 @@ sections:
     subtitle: 'You can find me here:'
     actions:
       - type: Link
-        label: Learn more
+        label: Discord
         altText: ''
         url: /discord.com
         showIcon: false
