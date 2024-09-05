@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Namer - Cross Platform Application
 date: '2024-02-20'
 client: for libraries
-description: "I built Library \U0001F4DA, a Django-powered web app that keeps your book collection in check! \U0001F4D6\U0001F50D It simplifies managing books, borrowers, and lending with a dash of automated overdue notifications. Crafted with Django, SQLite, and Bootstrap for a seamless and stylish experience. \U0001F4C5✨ Your next great read is just a click away!"
+description: "I developed Namer \U0001F9E9, a versatile cross-platform app built with Flutter that generates random names for various needs. Whether you’re creating unique characters, project titles, or usernames, Namer has you covered! Key features include customizable name generation, a user-friendly interface, and seamless performance on both iOS and Android. \U0001F680\U0001F4F1"
 featuredImage:
   type: ImageBlock
   url: /images/published-update.jpg
