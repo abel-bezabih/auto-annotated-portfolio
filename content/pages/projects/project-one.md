@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: A very cool code project
+title: News-App - Web Application
 colors: colors-c
 date: '2023-10-15'
 client: client @newspaper companies
