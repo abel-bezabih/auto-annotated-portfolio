@@ -1,7 +1,7 @@
 ---
 type: ProjectLayout
 title: Namer - Cross Platform Application
-date: '0002-06-20'
+date: '0202-06-20'
 client: for libraries
 description: "I built Library \U0001F4DA, a Django-powered web app that keeps your book collection in check! \U0001F4D6\U0001F50D It simplifies managing books, borrowers, and lending with a dash of automated overdue notifications. Crafted with Django, SQLite, and Bootstrap for a seamless and stylish experience. \U0001F4C5✨ Your next great read is just a click away!"
 featuredImage:
