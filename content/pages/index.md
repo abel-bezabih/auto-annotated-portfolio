@@ -10,9 +10,7 @@ backgroundImage:
   backgroundRepeat: no-repeat
   opacity: 75
 sections:
-  - elementId: ''
-    colors: colors-f
-    backgroundSize: full
+  - type: HeroSection
     title: 'I’m a Cloud Engineer, Python programmer and Backend developer.'
     subtitle: >-
       Hi, I’m Abel Bezabih, a results-driven Cloud Engineer with expertise in
@@ -21,15 +19,29 @@ sections:
       experience with AWS and Azure, I help businesses optimize their cloud
       environment for performance, scalability, and security. Explore my work,
       projects, and insights on cloud computing.
+    actions:
+      - type: Button
+        label: Hire me
+        altText: ''
+        url: /
+        showIcon: true
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    media:
+      type: ImageBlock
+      url: /images/IMG_0315.jpg
+      altText: Hero image
+      caption: Caption of the image
+      elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    elementId: ''
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
           - pt-36
           - pb-48
@@ -46,8 +58,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    type: HeroSection
-    actions: []
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
