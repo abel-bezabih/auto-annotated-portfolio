@@ -5,7 +5,9 @@ colors: colors-a
 date: '2021-10-15'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
+  because I worked with an entire team :) but they definitely followed my lead
+  most of the time.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
@@ -15,15 +17,48 @@ media:
   url: /images/bg1.jpg
   altText: Project image
 ---
+Developed **News-App**, a comprehensive Django-based web application designed as an online newspaper platform. It enables content creators to efficiently manage articles and provides users with a rich browsing experience. The application includes features such as:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+*   **Article Management**: Admins can easily create, edit, and manage articles using Django's admin interface.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   **Category-based Browsing**: Users can filter and browse articles by categories like politics, sports, technology, and more.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   **User Authentication**: Secure system with role-based access for admins, journalists, and readers.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Comment System**: Allows readers to post comments on articles, fostering engagement and discussion.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Advanced Search**: Enables users to find articles quickly through keyword or author searches.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*   **Responsive Design**: Ensures the application is accessible and functional across all devices.
+
+**Technologies Used**:
+
+*   **Django**: For backend development, including the admin panel and content management.
+
+*   **PostgreSQL/MySQL**: For scalable and reliable database management.
+
+*   **HTML/CSS/JavaScript**: For frontend development to create a dynamic user interface.
+
+*   **Bootstrap**: For a responsive, mobile-first design.
+
+*   **Django REST Framework**: For creating APIs to extend application functionality or integrate with other systems.
+
+*   **Heroku**: For deployment and cloud hosting, providing scalability and easy management of the web application.
+
+*   **Gunicorn**: For WSGI server handling, optimizing performance on Heroku.
+
+*   **Whitenoise**: For serving static files efficiently in a production environment.
+
+**Impact**:
+
+*   **Improved Accessibility**: Users can easily access and interact with news content on various devices.
+
+*   **Efficient Content Management**: Simplified the workflow for admins and journalists to manage and publish news.
+
+*   **Enhanced User Engagement**: Increased interaction through a comment system and improved search capabilities.
+
+>
+>
+>
+> [`View It In My GitHub`](https://github.com/abel-bezabih/news-app)
+
