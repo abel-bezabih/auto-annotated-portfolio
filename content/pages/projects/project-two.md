@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Library - web application
 colors: colors-a
-date: ''
+date: '2021-06-20'
 client: for libraries
 description: >-
   I built a Django-based web application named Library, to manage books,
