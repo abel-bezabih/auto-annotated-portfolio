@@ -14,7 +14,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg1.jpg
+  url: /images/digitale-kranten-uitgeven-2048x1490.png
   altText: Project image
 ---
 Developed **News-App**, a comprehensive Django-based web application designed as an online newspaper platform. It enables content creators to efficiently manage articles and provides users with a rich browsing experience. The application includes features such as:
