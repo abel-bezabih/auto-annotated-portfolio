@@ -4,11 +4,7 @@ title: Daycare - Android & iOS Application
 colors: colors-a
 date: '2020-05-19'
 client: STARTUP COMPANY
-description: >-
-  Daycare is a cross-platform mobile app built with Flutter, JavaScript, and
-  Firebase. It streamlines daycare management with features like real-time
-  updates, parent-teacher communication, and attendance tracking. The app
-  enhances user engagement and simplifies administrative tasks. Cool right :)
+description: "Daycare \U0001F9F8\U0001F4F1 is a cross-platform mobile app built with Flutter, JavaScript, and Firebase. It makes managing daycare a breeze with real-time updates, parent-teacher chats, and attendance tracking. \U0001F4CA\U0001F468‍\U0001F469‍\U0001F467‍\U0001F466 Streamlining tasks and boosting engagement, this app is as cool as it gets! \U0001F60E✨"
 featuredImage:
   type: ImageBlock
   url: /images/124df7b47679f5f7d917.png
