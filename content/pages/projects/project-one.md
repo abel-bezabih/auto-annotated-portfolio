@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: A very cool code project
 colors: colors-c
-date: '0202-10-15'
+date: '2022-10-15'
 client: client @newspaper companies
 description: "I built News-App \U0001F4F0, a Django-powered news hub where you can manage and read articles like a pro! \U0001F58B️✨ It’s got everything from article management to category-based browsing and user authentication. Hosted on Heroku \U0001F680 for smooth sailing, and crafted with Django, PostgreSQL, Bootstrap, and Django REST Framework. Dive in and stay updated, the news is just a click away! :)\U0001F4F1"
 featuredImage:
