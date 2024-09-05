@@ -15,7 +15,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/cloud.jpg
   altText: Project image
 ---
 Developed **Library**, a web-based library management system designed to streamline the management of books, borrowers, and lending processes. The system provides an intuitive interface for users and administrators to manage book inventories and track borrowing activities. Key features include:
