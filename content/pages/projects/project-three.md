@@ -2,7 +2,7 @@
 type: ProjectLayout
 title: Android & iOS Application
 colors: colors-a
-date: ''
+date: '2020-05-22'
 client: STARTUP COMPANY
 description: >-
   Daycare is a cross-platform mobile app built with Flutter, JavaScript, and
