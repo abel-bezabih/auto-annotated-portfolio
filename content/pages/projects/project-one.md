@@ -5,9 +5,10 @@ colors: colors-c
 date: '2021-10-15'
 client: client @newspaper companies
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I developed News-App, a Django-based platform for managing and publishing news
+  articles. It features article management, category-based browsing, and user
+  authentication, with deployment on Heroku for scalable hosting. Built using
+  Django, PostgreSQL, Bootstrap, and Django REST Framework.
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
