@@ -14,7 +14,7 @@ media:
   altText: Project image
 bottomSections: []
 metaTags: []
-colors: colors-e
+colors: colors-d
 ---
 **Namer** 🧩 is an innovative cross-platform mobile application that I developed using Flutter. It’s designed to assist users in generating random names for a multitude of purposes, from fictional characters and creative project titles to unique usernames and more. The app stands out with its broad range of features and capabilities:
 
