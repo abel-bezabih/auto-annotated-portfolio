@@ -4,11 +4,7 @@ title: Library - web application
 colors: colors-a
 date: '2021-06-20'
 client: for libraries
-description: >-
-  I built a Django-based web application named Library, to manage books,
-  borrowers, and lending processes. It streamlines inventory management and
-  returns, with automated notifications for overdue books. Developed using
-  Django, SQLite, and Bootstrap for a responsive, user-friendly experience.
+description: "I built Library \U0001F4DA, a Django-powered web app that keeps your book collection in check! \U0001F4D6\U0001F50D It simplifies managing books, borrowers, and lending with a dash of automated overdue notifications. Crafted with Django, SQLite, and Bootstrap for a seamless and stylish experience. \U0001F4C5✨ Your next great read is just a click away!"
 featuredImage:
   type: ImageBlock
   url: /images/published-update.jpg
