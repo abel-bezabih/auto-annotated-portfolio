@@ -11,7 +11,7 @@ description: >-
   Django, SQLite, and Bootstrap for a responsive, user-friendly experience.
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/cloud.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
