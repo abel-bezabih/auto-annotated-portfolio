@@ -5,10 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: for libraries
 description: >-
-  I built Library, a Django-based web application to manage books, borrowers,
-  and lending processes. It streamlines inventory management and returns, with
-  automated notifications for overdue books. Developed using Django, SQLite, and
-  Bootstrap for a responsive, user-friendly experience.
+  I built a Django-based web application named Library, to manage books,
+  borrowers, and lending processes. It streamlines inventory management and
+  returns, with automated notifications for overdue books. Developed using
+  Django, SQLite, and Bootstrap for a responsive, user-friendly experience.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
