@@ -14,7 +14,7 @@ media:
   altText: Project image
 bottomSections: []
 metaTags: []
-colors: colors-d
+colors: colors-e
 ---
 Developed **Library**, a web-based library management system designed to streamline the management of books, borrowers, and lending processes. The system provides an intuitive interface for users and administrators to manage book inventories and track borrowing activities. Key features include:
 
