@@ -23,7 +23,7 @@ sections:
       - type: Button
         label: Hire me
         altText: ''
-        url: /projects
+        url: /info
         showIcon: true
         icon: arrowRight
         iconPosition: right
