@@ -10,7 +10,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/digitale-kranten-uitgeven-2048x1490.png
+  url: /images/q1xz82jr.png
   altText: Project image
 bottomSections: []
 metaTags: []
