@@ -6,7 +6,7 @@ client: client @Digital attendance & security seekers
 description: "Meet Face Recognition \U0001F575️‍♂️, the ultimate tool for seamless attendance management! \U0001F3AB✨ This web application automates the check-in process using advanced facial recognition technology, making roll calls a thing of the past. Real-time updates and accurate identification ensure a smooth and efficient experience. Perfect for schools, workplaces, and events where precision is key! \U0001F4C5"
 featuredImage:
   type: ImageBlock
-  url: /images/digitale-kranten-uitgeven-2048x1490.png
+  url: /images/q1xz82jr.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
