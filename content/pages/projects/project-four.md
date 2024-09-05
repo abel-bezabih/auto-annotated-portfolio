@@ -6,7 +6,7 @@ client: 'client @Everybody, @Applovers'
 description: "Meet Namer \U0001F9E9, your ultimate name-generating sidekick! \U0001F680 Whether you need a quirky character name, a cool project title, or just something fun, Namer has you covered. With a splash of Flutter magic and a dash of Firebase power, this app whips up names faster than you can say “naming frenzy!” \U0001F31F\U0001F4F1 Dive in and let the name games begin! \U0001F389"
 featuredImage:
   type: ImageBlock
-  url: /images/published-update.jpg
+  url: /images/ce419871-a845-430a-a708-ec5da5dd453d.png
   altText: Project thumbnail image
 media:
   type: ImageBlock
