@@ -13,14 +13,10 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: "## Hey'\U0001F44B, I’m Abel. I’m a Cloud Engineer, Python programmer and Backend Developer based in Vancouver, BC\U0001F341. While I’m passionate about technology and tackling new challenges, I also find joy in music\U0001F3B6\U0001F3B6—whether it’s discovering new artists\U0001FA97, attending live shows, or just enjoying my favorite tunes. When I’m not coding, you’ll likely find me immersed in a good playlist or exploring new musical genres. Life’s all about balance\U0001F6B2, and for me, that is blending tech with a love for music.\n\n"
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/IMG_0334.jpg
       altText: Hero image
     styles:
       self:
@@ -58,53 +54,6 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
   - type: DividerSection
     styles:
       self:
@@ -124,15 +73,9 @@ sections:
         actions:
           - type: Link
             label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
+            url: 'https://github.com/abel-bezabih'
+            showIcon: false
+            icon: github
         styles:
           self:
             textAlign: left
@@ -140,36 +83,14 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
+            url: 'https://www.linkedin.com/in/abel-bezabih/'
+            showIcon: false
+            icon: linkedin
         styles:
           self:
             textAlign: left
     columns: 3
-    spacingX: 120
+    spacingX: 150
     spacingY: 0
     styles:
       self:
@@ -190,6 +111,15 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
+    actions:
+      - type: Link
+        label: Discord
+        altText: ''
+        url: /discord.com
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        elementId: ''
   - type: DividerSection
     styles:
       self:
@@ -207,21 +137,105 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: AWS
       - type: Label
-        label: React
+        label: Azure
+        url: ''
       - type: Label
-        label: Microsoft Office
+        label: Route 53
+        url: ''
       - type: Label
-        label: Next.js
+        label: RDS
+        url: ''
       - type: Label
-        label: Netlify
+        label: AWS S3
+        url: ''
       - type: Label
-        label: Pancakes
+        label: EC2
+        url: ''
+      - type: Label
+        label: AWS Shield
+        url: ''
+      - type: Label
+        label: DynamoDB
+        url: ''
+      - type: Label
+        label: Elastic Beanstalk
+        url: ''
+      - type: Label
+        label: CloudFormation
+        url: ''
+      - type: Label
+        label: Terraform
+      - type: Label
+        label: Virtual Machines
+        url: ''
+      - type: Label
+        label: Kubernetes
+        url: ''
+      - type: Label
+        label: Docker
+        url: ''
+      - type: Label
+        label: Ansible
+        url: ''
+      - type: Label
+        label: Jenkins
+      - type: Label
+        label: Encryption
+        url: ''
+      - type: Label
+        label: IAM
+      - type: Label
+        label: VPC
+        url: ''
+      - type: Label
+        label: CloudWatch
+      - type: Label
+        label: Grafana
+        url: ''
+      - type: Label
+        label: Prometheus
+        url: ''
+      - type: Label
+        label: Javascript
+        url: ''
       - type: Label
         label: C++
+        url: ''
       - type: Label
-        label: Swift
+        label: Python3
+      - type: Label
+        label: Bash
+        url: ''
+      - type: Label
+        label: Django
+      - type: Label
+        label: Flask
+        url: ''
+      - type: Label
+        label: ' PostgreSQL'
+      - type: Label
+        label: MySQL
+        url: ''
+      - type: Label
+        label: Git
+        url: ''
+      - type: Label
+        label: GitHub
+        url: ''
+      - type: Label
+        label: GitLab
+        url: ''
+      - type: Label
+        label: Linux
+        url: ''
+      - type: Label
+        label: Scrum
+        url: ''
+      - type: Label
+        label: Kanban
+        url: ''
   - type: DividerSection
     styles:
       self:
@@ -236,10 +250,10 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: 'Email Me:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      <chunkyabel@icloud.com>
   - type: DividerSection
     styles:
       self:
@@ -257,26 +271,7 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
-          **Current**
-
-          * freelance @freelance.me
-
-          **2018-2021**
-
-          * fullstack at this startup
-
-          **2015**
-
-          * senior front-end at this place
-
-          **2013**
-
-          * intern developer at a big company
-
-          **2011**
-
-          * flipping burgers
+        text: "**Until Jul 2024**\n\n*   Cloud System Administrator\n\n    *@ DoWell Labs, UK Ltd\_(Remote)*\n\n***Jul 2022 - Jan 2023***\n\n*   Backend Developer - Django Framework\n\n    *@ INFOSYS,* India (*Remote)*\n\n***Jul 2021 - June 2022***\n\n*   Python Developer - Cloud Role\n\n    *@ Quantum Technologies*\n\n***Oct 2020 - June 2021***\n\n*   Python Developer - Odoo ERP\n\n    *@ Rened PLC (Remote)*\n\n"
         styles:
           self:
             textAlign: left
@@ -377,7 +372,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Tell me about your project
+          placeholder: Tell me about your project ...
           isRequired: true
           width: full
           type: TextareaFormControl
