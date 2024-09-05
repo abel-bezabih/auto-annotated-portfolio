@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Android & iOS Application
+title: Daycare - Android & iOS Application
 colors: colors-a
 date: '2020-05-19'
 client: STARTUP COMPANY
