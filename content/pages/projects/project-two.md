@@ -5,9 +5,10 @@ colors: colors-a
 date: '2021-12-20'
 client: Awesome client
 description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably
-  because I worked with an entire team :) but they definitely followed my lead
-  most of the time.
+  I built Library, a Django-based web application to manage books, borrowers,
+  and lending processes. It streamlines inventory management and returns, with
+  automated notifications for overdue books. Developed using Django, SQLite, and
+  Bootstrap for a responsive, user-friendly experience.
 featuredImage:
   type: ImageBlock
   url: /images/bg2.jpg
