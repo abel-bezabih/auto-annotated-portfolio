@@ -15,7 +15,7 @@
             },
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About Me",
                 "url": "/info"
             },
             {
@@ -51,7 +51,7 @@
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "About Me",
                 "url": "/info",
                 "altText": ""
             },
@@ -84,7 +84,7 @@
             "address": "711-5th Ave, New Westminster, BC",
             "addressAltText": "My address"
         },
-        "copyrightText": "Powered by [Netlify](https://www.netlify.com/platform/)",
+        "copyrightText": "Powered by occasional bugs:) 🐛🚀\n",
         "styles": {
             "self": {
                 "width": "narrow",
