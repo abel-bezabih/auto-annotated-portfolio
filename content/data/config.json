@@ -57,7 +57,7 @@
             },
             {
                 "type": "Link",
-                "label": "Contact",
+                "label": "Email",
                 "url": "mailto:chunkyabel@icloud.com",
                 "altText": ""
             },
