@@ -10,7 +10,7 @@ featuredImage:
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/published-update.jpg
+  url: /images/ce419871-a845-430a-a708-ec5da5dd453d.png
   altText: Project image
 bottomSections: []
 metaTags: []
