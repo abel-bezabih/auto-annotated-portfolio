@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Namer - Cross Platform Application
 date: '2024-02-20'
 client: for libraries
-description: "I developed Namer \U0001F9E9, a versatile cross-platform app built with Flutter that generates random names for various needs. Whether you’re creating unique characters, project titles, or usernames, Namer has you covered! Key features include customizable name generation, a user-friendly interface, and seamless performance on both iOS and Android. \U0001F680\U0001F4F1"
+description: "Meet Namer \U0001F9E9, your ultimate name-generating sidekick! \U0001F680 Whether you need a quirky character name, a cool project title, or just something fun, Namer has you covered. With a splash of Flutter magic and a dash of Firebase power, this app whips up names faster than you can say “naming frenzy!” \U0001F31F\U0001F4F1 Dive in and let the name games begin! \U0001F389"
 featuredImage:
   type: ImageBlock
   url: /images/published-update.jpg
