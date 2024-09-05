@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Library - web application
 colors: colors-a
 date: '2021-12-20'
 client: for libraries
