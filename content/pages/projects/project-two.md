@@ -3,7 +3,7 @@ type: ProjectLayout
 title: Another cool project
 colors: colors-a
 date: '2021-12-20'
-client: Awesome client
+client: for libraries
 description: >-
   I built Library, a Django-based web application to manage books, borrowers,
   and lending processes. It streamlines inventory management and returns, with
