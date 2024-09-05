@@ -54,6 +54,7 @@ Developed **Daycare**, a cross-platform mobile application designed for managing
 
 *   **Improved Communication**: Enabled better interaction between parents and daycare staff.
 
-*   **Increased Engagement**: Provided parents with real-time updates and insights into their children’s daily activities, boosting engagement and satisfaction.
 
-                                                                        [**View It In My GitHub**](https://github.com/abel-bezabih/daycare)
+
+> [`View It In My Github`](https://github.com/abel-bezabih/daycare)
+
