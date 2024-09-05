@@ -1,29 +1,55 @@
 ---
 type: ProjectLayout
-title: Another cool project
+title: Library - web application
 colors: colors-a
-date: '2021-12-20'
-client: Awesome client
-description: >-
-  It’s hard to imagine that I’ve that I wrote all this code by myself, probably because I worked with an entire team :) but they definitely followed my lead most of the time.
+date: '2021-06-20'
+client: for libraries
+description: "I built Library \U0001F4DA, a Django-powered web app that keeps your book collection in check! \U0001F4D6\U0001F50D It simplifies managing books, borrowers, and lending with a dash of automated overdue notifications. Crafted with Django, SQLite, and Bootstrap for a seamless and stylish experience. \U0001F4C5✨ Your next great read is just a click away!"
 featuredImage:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/published-update.jpg
   altText: Project thumbnail image
 media:
   type: ImageBlock
-  url: /images/bg2.jpg
+  url: /images/published-update.jpg
   altText: Project image
 ---
+Developed **Library**, a web-based library management system designed to streamline the management of books, borrowers, and lending processes. The system provides an intuitive interface for users and administrators to manage book inventories and track borrowing activities. Key features include:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+*   **Book Inventory Management**: Tools for adding, removing, and updating book records.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+*   **Borrowing and Returns**: Automated tracking of book loans and returns, with due date reminders.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+*   **User Management**: Supports multiple user roles such as librarians and borrowers with distinct access levels.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+*   **Search and Filter**: Advanced search functionality for finding books by title, author, or genre.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+*   **Overdue Alerts**: Automatic notifications for overdue books via email.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+**Technologies Used**:
+
+*   **Django**: Python-based web framework for building the backend and handling business logic.
+
+*   **SQLite**: For storing book and user data in a lightweight, efficient database.
+
+*   **HTML/CSS**: For crafting the frontend with a clean and user-friendly design.
+
+*   **JavaScript**: For enhancing the user interface and implementing interactive features.
+
+*   **Bootstrap**: For responsive, mobile-friendly design.
+
+*   **Django REST Framework**: For creating APIs to extend the system's functionality.
+
+**Impact**:
+
+*   **Simplified Library Operations**: Reduced manual tracking and streamlined book management tasks.
+
+*   **Improved User Experience**: Made it easier for users to search for and borrow books.
+
+*   **Automated Notifications**: Minimized late returns with automated alerts.
+
+>
+>
+>
+> [`View It In My GitHub`](https://github.com/abel-bezabih/library)
+
