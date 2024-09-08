@@ -285,7 +285,7 @@ sections:
         text: |+
           **2018-2022**
 
-          *   Bsc Computer Science at Jimma University - JiT
+          *   Bsc Computer Science @ Jimma University - JiT
 
         styles:
           self:
