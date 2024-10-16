@@ -1,11 +1,10 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: "The Beauty of Flutter \U0001F30E"
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image4.jpg
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
