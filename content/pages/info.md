@@ -232,6 +232,9 @@ sections:
       - type: Label
         label: Kanban
         url: ''
+      - type: Label
+        label: Flutter
+        url: ''
   - type: DividerSection
     styles:
       self:
