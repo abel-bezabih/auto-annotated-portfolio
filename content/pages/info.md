@@ -202,6 +202,12 @@ sections:
       - type: Label
         label: Python3
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
+        label: Swift
+        url: ''
+      - type: Label
         label: Bash
         url: ''
       - type: Label
@@ -218,13 +224,13 @@ sections:
         label: MySQL
         url: ''
       - type: Label
-        label: Git
-        url: ''
-      - type: Label
-        label: Swift
+        label: Firebase
         url: ''
       - type: Label
         label: GitHub
+        url: ''
+      - type: Label
+        label: Git
         url: ''
       - type: Label
         label: GitLab
@@ -237,12 +243,6 @@ sections:
         url: ''
       - type: Label
         label: Kanban
-        url: ''
-      - type: Label
-        label: Kotlin
-        url: ''
-      - type: Label
-        label: Firebase
         url: ''
   - type: DividerSection
     styles:
