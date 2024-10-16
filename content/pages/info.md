@@ -235,6 +235,9 @@ sections:
       - type: Label
         label: Flutter
         url: ''
+      - type: Label
+        label: Firebase
+        url: ''
   - type: DividerSection
     styles:
       self:
