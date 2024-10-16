@@ -207,6 +207,9 @@ sections:
       - type: Label
         label: Django
       - type: Label
+        label: Swift
+        url: ''
+      - type: Label
         label: Flask
         url: ''
       - type: Label
@@ -214,9 +217,6 @@ sections:
         url: ''
       - type: Label
         label: ' PostgreSQL'
-      - type: Label
-        label: Swift
-        url: ''
       - type: Label
         label: MySQL
         url: ''
