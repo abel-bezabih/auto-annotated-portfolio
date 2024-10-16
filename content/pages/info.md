@@ -218,10 +218,10 @@ sections:
         label: Git
         url: ''
       - type: Label
-        label: GitHub
+        label: Flutter
         url: ''
       - type: Label
-        label: Flutter
+        label: GitHub
         url: ''
       - type: Label
         label: GitLab
