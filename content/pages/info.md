@@ -13,11 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: "## Hey'\U0001F44B, I’m Abel. I’m a Cloud Engineer, Python programmer and Backend Developer based in Vancouver, BC\U0001F341. While I’m passionate about technology and tackling new challenges, I also find joy in music\U0001F3B6\U0001F3B6—whether it’s discovering new artists\U0001FA97, attending live shows, or just enjoying my favorite tunes. When I’m not coding, you’ll likely find me immersed in a good playlist or exploring new musical genres. Life’s all about balance\U0001F6B2, and for me, that is blending tech with a love for music.\n\n"
-    media:
-      type: ImageBlock
-      url: /images/IMG_0334.jpg
-      altText: Hero image
+    text: "### Hey'\U0001F44B, I’m Abel. I’m a Cloud Engineer, Computer programmer and Backend Developer based in Vancouver, BC\U0001F341. While I’m passionate about technology and tackling new challenges, I also find joy in music\U0001F3B6\U0001F3B6—whether it’s discovering new artists\U0001FA97, attending live shows, or just enjoying my favorite tunes. When I’m not coding, you’ll likely find me immersed in a good playlist or exploring new musical genres. Life’s all about balance\U0001F6B2, and for me, that is blending tech with a love for music.\n\n"
     styles:
       self:
         height: auto
@@ -214,12 +210,18 @@ sections:
         label: Flask
         url: ''
       - type: Label
+        label: Flutter
+        url: ''
+      - type: Label
         label: ' PostgreSQL'
       - type: Label
         label: MySQL
         url: ''
       - type: Label
         label: Git
+        url: ''
+      - type: Label
+        label: Swift
         url: ''
       - type: Label
         label: GitHub
@@ -235,6 +237,12 @@ sections:
         url: ''
       - type: Label
         label: Kanban
+        url: ''
+      - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
+        label: Firebase
         url: ''
   - type: DividerSection
     styles:
@@ -282,18 +290,11 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2018-2022**
 
-          * ba computer sciense at a semi fancy school
+          *   Bsc Computer Science @Jimma University - JiT
 
-          **2014**
-
-          * react certificate somewhere
-
-          **2011**
-
-          * my highschool
         styles:
           self:
             textAlign: left
