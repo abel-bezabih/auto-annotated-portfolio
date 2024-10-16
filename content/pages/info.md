@@ -230,6 +230,9 @@ sections:
         label: GitLab
         url: ''
       - type: Label
+        label: Firebase
+        url: ''
+      - type: Label
         label: Linux
         url: ''
       - type: Label
@@ -240,9 +243,6 @@ sections:
         url: ''
       - type: Label
         label: Kotlin
-        url: ''
-      - type: Label
-        label: Firebase
         url: ''
   - type: DividerSection
     styles:
