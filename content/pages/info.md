@@ -238,6 +238,9 @@ sections:
       - type: Label
         label: Firebase
         url: ''
+      - type: Label
+        label: Kotlin
+        url: ''
   - type: DividerSection
     styles:
       self:
