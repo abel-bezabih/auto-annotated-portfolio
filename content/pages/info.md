@@ -215,6 +215,9 @@ sections:
       - type: Label
         label: ' PostgreSQL'
       - type: Label
+        label: Swift
+        url: ''
+      - type: Label
         label: MySQL
         url: ''
       - type: Label
@@ -222,9 +225,6 @@ sections:
         url: ''
       - type: Label
         label: Git
-        url: ''
-      - type: Label
-        label: Swift
         url: ''
       - type: Label
         label: GitHub
