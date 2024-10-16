@@ -218,6 +218,9 @@ sections:
       - type: Label
         label: ' PostgreSQL'
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
         label: MySQL
         url: ''
       - type: Label
@@ -225,9 +228,6 @@ sections:
         url: ''
       - type: Label
         label: GitHub
-        url: ''
-      - type: Label
-        label: Kotlin
         url: ''
       - type: Label
         label: Git
