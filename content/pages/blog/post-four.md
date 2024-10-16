@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: "The Beauty of Flutter \U0001F30E"
+title: "\U0001F98B Flutter Unfolded: Crafting Stunning Apps with Ease"
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
