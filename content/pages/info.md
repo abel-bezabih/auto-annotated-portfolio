@@ -202,6 +202,9 @@ sections:
       - type: Label
         label: Python3
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
         label: Swift
         url: ''
       - type: Label
@@ -209,9 +212,6 @@ sections:
         url: ''
       - type: Label
         label: Django
-      - type: Label
-        label: Kotlin
-        url: ''
       - type: Label
         label: Flask
         url: ''
