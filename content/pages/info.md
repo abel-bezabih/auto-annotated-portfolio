@@ -221,13 +221,13 @@ sections:
         label: Git
         url: ''
       - type: Label
+        label: Swift
+        url: ''
+      - type: Label
         label: GitHub
         url: ''
       - type: Label
         label: GitLab
-        url: ''
-      - type: Label
-        label: Swift
         url: ''
       - type: Label
         label: Linux
