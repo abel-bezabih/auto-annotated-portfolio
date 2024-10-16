@@ -218,6 +218,9 @@ sections:
         label: MySQL
         url: ''
       - type: Label
+        label: Firebase
+        url: ''
+      - type: Label
         label: Git
         url: ''
       - type: Label
@@ -228,9 +231,6 @@ sections:
         url: ''
       - type: Label
         label: GitLab
-        url: ''
-      - type: Label
-        label: Firebase
         url: ''
       - type: Label
         label: Linux
