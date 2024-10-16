@@ -236,13 +236,13 @@ sections:
         label: Linux
         url: ''
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
         label: Scrum
         url: ''
       - type: Label
         label: Kanban
-        url: ''
-      - type: Label
-        label: Kotlin
         url: ''
   - type: DividerSection
     styles:
