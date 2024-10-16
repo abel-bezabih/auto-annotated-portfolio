@@ -236,13 +236,13 @@ sections:
         label: Flutter
         url: ''
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
         label: Firebase
         url: ''
       - type: Label
         label: Swift
-        url: ''
-      - type: Label
-        label: Kotlin
         url: ''
   - type: DividerSection
     styles:
