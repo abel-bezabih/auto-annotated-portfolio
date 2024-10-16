@@ -221,6 +221,9 @@ sections:
         label: GitHub
         url: ''
       - type: Label
+        label: Flutter
+        url: ''
+      - type: Label
         label: GitLab
         url: ''
       - type: Label
@@ -231,9 +234,6 @@ sections:
         url: ''
       - type: Label
         label: Kanban
-        url: ''
-      - type: Label
-        label: Flutter
         url: ''
       - type: Label
         label: Kotlin
