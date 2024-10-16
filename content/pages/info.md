@@ -227,6 +227,9 @@ sections:
         label: GitLab
         url: ''
       - type: Label
+        label: Swift
+        url: ''
+      - type: Label
         label: Linux
         url: ''
       - type: Label
@@ -234,9 +237,6 @@ sections:
         url: ''
       - type: Label
         label: Kanban
-        url: ''
-      - type: Label
-        label: Swift
         url: ''
       - type: Label
         label: Kotlin
