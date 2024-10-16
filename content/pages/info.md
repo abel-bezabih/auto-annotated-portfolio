@@ -210,15 +210,15 @@ sections:
         label: Flask
         url: ''
       - type: Label
+        label: Flutter
+        url: ''
+      - type: Label
         label: ' PostgreSQL'
       - type: Label
         label: MySQL
         url: ''
       - type: Label
         label: Git
-        url: ''
-      - type: Label
-        label: Flutter
         url: ''
       - type: Label
         label: GitHub
