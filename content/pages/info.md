@@ -224,13 +224,13 @@ sections:
         label: Firebase
         url: ''
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
         label: Git
         url: ''
       - type: Label
         label: GitHub
-        url: ''
-      - type: Label
-        label: Kotlin
         url: ''
       - type: Label
         label: GitLab
