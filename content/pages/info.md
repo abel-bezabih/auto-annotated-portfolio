@@ -230,13 +230,13 @@ sections:
         label: GitHub
         url: ''
       - type: Label
+        label: Kotlin
+        url: ''
+      - type: Label
         label: GitLab
         url: ''
       - type: Label
         label: Linux
-        url: ''
-      - type: Label
-        label: Kotlin
         url: ''
       - type: Label
         label: Scrum
