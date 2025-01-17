@@ -79,7 +79,7 @@ sections:
         actions:
           - type: Link
             label: LinkedIn
-            url: 'https://www.linkedin.com/in/abel-bezabih/'
+            url: 'https://www.linkedin.com'
             showIcon: false
             icon: linkedin
         styles:
