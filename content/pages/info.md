@@ -85,8 +85,25 @@ sections:
         styles:
           self:
             textAlign: left
+      - type: FeaturedItem
+        title: ''
+        subtitle: ''
+        text: ''
+        elementId: ''
+        styles:
+          self:
+            textAlign: left
+        actions:
+          - type: Link
+            label: Discord
+            altText: ''
+            url: 'https://discord.com/users/1261801471440060489'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
-    spacingX: 150
+    spacingX: 72
     spacingY: 0
     styles:
       self:
@@ -107,15 +124,7 @@ sections:
       subtitle:
         textAlign: left
     subtitle: 'You can find me here:'
-    actions:
-      - type: Link
-        label: Discord
-        altText: ''
-        url: /discord.com
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        elementId: ''
+    actions: []
   - type: DividerSection
     styles:
       self:
@@ -133,15 +142,13 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: AWS
-      - type: Label
         label: Azure
         url: ''
       - type: Label
-        label: Route 53
+        label: Apache Spark
         url: ''
       - type: Label
-        label: RDS
+        label: Django Rest Framework
         url: ''
       - type: Label
         label: AWS S3
@@ -153,10 +160,12 @@ sections:
         label: AWS Shield
         url: ''
       - type: Label
-        label: DynamoDB
+        label: Java
         url: ''
       - type: Label
-        label: Elastic Beanstalk
+        label: Spring Boot
+      - type: Label
+        label: Linux
         url: ''
       - type: Label
         label: CloudFormation
@@ -183,7 +192,7 @@ sections:
       - type: Label
         label: IAM
       - type: Label
-        label: VPC
+        label: Automation
         url: ''
       - type: Label
         label: CloudWatch
@@ -202,10 +211,10 @@ sections:
       - type: Label
         label: Python3
       - type: Label
-        label: Kotlin
+        label: Big Data
         url: ''
       - type: Label
-        label: Swift
+        label: Laravel
         url: ''
       - type: Label
         label: Bash
@@ -261,7 +270,7 @@ sections:
     subtitle: 'Email Me:'
     colors: colors-f
     text: |
-      <chunkyabel@icloud.com>
+      <abelbezabih@yahoo.com>
   - type: DividerSection
     styles:
       self:
@@ -279,7 +288,25 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: "**Until Jul 2024**\n\n*   Flutter Developer - Mobile Developer\n\n    *@ DoWell Labs, UK Ltd\_(Remote)*\n\n***Jul 2022 - Jan 2023***\n\n*   Flutter Developer\n\n    *@ INFOSYS,* India (*Remote)*\n\n***Jul 2021 - June 2022***\n\n*   Python Developer - Cloud Role\n\n    *@ Quantum Technologies*\n\n***Oct 2020 - June 2021***\n\n*   Python Developer - Odoo ERP\n\n    *@ Rened PLC (Remote)*\n\n"
+        text: |+
+          **Jul 2024 - December 2024**
+
+          *   Flutter Developer - Mobile Developer
+
+              *@ BoardSpace Inc, Ontario, Canada (Remote)*
+
+          ***May 2022 - Present***
+
+          *   Backend Developer
+
+              *@ Dowell Research UK Ltd, London, UK (Remote)*
+
+          ***Dec 2021 - April 2022***
+
+          *   Python Developer - Odoo ERP
+
+              *@ Rened Consultancy and Trading PLC, Addis Ababa, Ethiopia*
+
         styles:
           self:
             textAlign: left
