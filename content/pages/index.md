@@ -13,7 +13,7 @@ sections:
   - type: HeroSection
     title: >-
       I’m a backend heavy software developer, Cloud Engineer and data
-      enthusisat.
+      enthusiast.
     subtitle: >-
       Hi, I’m Abel Bezabih, a results-driven Cloud Engineer with expertise in
       cloud infrastructure design, automation, and integration. With a
