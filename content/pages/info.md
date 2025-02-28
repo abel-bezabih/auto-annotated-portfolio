@@ -165,7 +165,7 @@ sections:
       - type: Label
         label: Spring Boot
       - type: Label
-        label: Elastic Beanstalk
+        label: Linux
         url: ''
       - type: Label
         label: CloudFormation
