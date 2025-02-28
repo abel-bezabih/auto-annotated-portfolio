@@ -94,14 +94,13 @@ sections:
           self:
             textAlign: left
         actions:
-          - type: Button
-            label: Discord
+          - type: Link
+            label: Learn more
             altText: ''
-            url: /1261801471440060489
+            url: 'https://discord.com/users/1261801471440060489'
             showIcon: false
             icon: arrowRight
             iconPosition: right
-            style: primary
             elementId: ''
     columns: 3
     spacingX: 150
