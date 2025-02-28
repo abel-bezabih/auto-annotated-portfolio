@@ -214,7 +214,7 @@ sections:
         label: Big Data
         url: ''
       - type: Label
-        label: Swift
+        label: Laravel
         url: ''
       - type: Label
         label: Bash
