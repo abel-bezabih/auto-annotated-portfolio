@@ -94,7 +94,7 @@ sections:
           self:
             textAlign: left
         actions: []
-    columns: 4
+    columns: 3
     spacingX: 150
     spacingY: 0
     styles:
