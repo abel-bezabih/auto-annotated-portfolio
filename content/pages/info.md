@@ -270,7 +270,7 @@ sections:
     subtitle: 'Email Me:'
     colors: colors-f
     text: |
-      <chunkyabel@icloud.com>
+      <abelbezabih@yahoo.com>
   - type: DividerSection
     styles:
       self:
