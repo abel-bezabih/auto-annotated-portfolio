@@ -142,8 +142,6 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: Spring Boot
-      - type: Label
         label: Azure
         url: ''
       - type: Label
@@ -164,6 +162,8 @@ sections:
       - type: Label
         label: DynamoDB
         url: ''
+      - type: Label
+        label: Spring Boot
       - type: Label
         label: Elastic Beanstalk
         url: ''
