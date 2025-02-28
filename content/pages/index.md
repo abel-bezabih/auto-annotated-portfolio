@@ -11,14 +11,16 @@ backgroundImage:
   opacity: 75
 sections:
   - type: HeroSection
-    title: 'I’m a Cloud Engineer, Python programmer and Backend developer.'
+    title: >-
+      I’m a backend heavy software developer, Cloud Engineer and data
+      enthusiast.
     subtitle: >-
-      Hi, I’m Abel Bezabih, a results-driven Cloud Engineer with expertise in
-      cloud infrastructure design, automation, and integration. With a
-      background in Python development, backend solutions, and extensive
-      experience with AWS and Azure, I help businesses optimize their cloud
-      environment for performance, scalability, and security. Explore my work,
-      projects, and insights on cloud computing.
+      Hi, I’m Abel Bezabih, a results-driven Software Engineer with expertise in
+      web application development, cloud infrastructure design, automation and
+      integration. With a background in backend solutions, and extensive
+      experience with cloud platforms, I help businesses optimize their cloud
+      environment for performance, scalability, and security and software needs.
+      Explore my work, projects, and insights on different solutions.
     actions:
       - type: Button
         label: Hire me
@@ -184,6 +186,13 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
+        - type: TextareaFormControl
+          name: Describe your project in your own words...
+          label: Message
+          hideLabel: false
+          placeholder: Type your message here
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
