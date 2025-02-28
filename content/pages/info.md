@@ -160,7 +160,7 @@ sections:
         label: AWS Shield
         url: ''
       - type: Label
-        label: DynamoDB
+        label: Java
         url: ''
       - type: Label
         label: Spring Boot
