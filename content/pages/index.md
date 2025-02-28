@@ -184,6 +184,13 @@ sections:
           isRequired: false
           width: full
           type: CheckboxFormControl
+        - type: TextareaFormControl
+          name: Describe your project in your own words...
+          label: Message
+          hideLabel: false
+          placeholder: Type your message here
+          width: full
+          isRequired: false
       submitLabel: "Submit \U0001F680"
       styles:
         submitLabel:
