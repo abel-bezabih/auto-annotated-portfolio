@@ -95,7 +95,7 @@ sections:
             textAlign: left
         actions:
           - type: Button
-            label: Learn more
+            label: Discord
             altText: ''
             url: /1261801471440060489
             showIcon: false
