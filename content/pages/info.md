@@ -192,7 +192,7 @@ sections:
       - type: Label
         label: IAM
       - type: Label
-        label: VPC
+        label: Automation
         url: ''
       - type: Label
         label: CloudWatch
