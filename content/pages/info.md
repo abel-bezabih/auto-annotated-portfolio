@@ -148,7 +148,7 @@ sections:
         label: Apache Spark
         url: ''
       - type: Label
-        label: RDS
+        label: Django Rest Framework
         url: ''
       - type: Label
         label: AWS S3
