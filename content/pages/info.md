@@ -93,6 +93,16 @@ sections:
         styles:
           self:
             textAlign: left
+        actions:
+          - type: Button
+            label: Learn more
+            altText: ''
+            url: /1261801471440060489
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
     columns: 3
     spacingX: 150
     spacingY: 0
