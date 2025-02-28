@@ -20,7 +20,7 @@ sections:
       integration. With a background in backend solutions, and extensive
       experience with cloud platforms, I help businesses optimize their cloud
       environment for performance, scalability, and security and software needs.
-      Explore my work, projects, and insights on cloud computing.
+      Explore my work, projects, and insights on different solutions.
     actions:
       - type: Button
         label: Hire me
