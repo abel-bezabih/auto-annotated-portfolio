@@ -93,7 +93,15 @@ sections:
         styles:
           self:
             textAlign: left
-        actions: []
+        actions:
+          - type: Link
+            label: Learn more
+            altText: ''
+            url: 'https://discord.com/users/1261801471440060489'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            elementId: ''
     columns: 3
     spacingX: 72
     spacingY: 0
