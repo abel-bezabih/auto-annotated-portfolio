@@ -211,7 +211,7 @@ sections:
       - type: Label
         label: Python3
       - type: Label
-        label: Kotlin
+        label: Big Data
         url: ''
       - type: Label
         label: Swift
