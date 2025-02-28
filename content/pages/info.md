@@ -142,7 +142,7 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: AWS
+        label: Spring Boot
       - type: Label
         label: Azure
         url: ''
