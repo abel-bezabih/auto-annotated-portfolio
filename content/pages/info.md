@@ -288,7 +288,25 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: "**Until Jul 2024**\n\n*   Flutter Developer - Mobile Developer\n\n    *@ DoWell Labs, UK Ltd\_(Remote)*\n\n***Jul 2022 - Jan 2023***\n\n*   Flutter Developer\n\n    *@ INFOSYS,* India (*Remote)*\n\n***Jul 2021 - June 2022***\n\n*   Python Developer - Cloud Role\n\n    *@ Quantum Technologies*\n\n***Oct 2020 - June 2021***\n\n*   Python Developer - Odoo ERP\n\n    *@ Rened PLC (Remote)*\n\n"
+        text: |+
+          **Jul 2024 - December 2024**
+
+          *   Flutter Developer - Mobile Developer
+
+              *@ BoardSpace Inc, Ontario, Canada (Remote)*
+
+          ***May 2022 - Present***
+
+          *   Backend Developer
+
+              *@ Dowell Research UK Ltd, London, UK (Remote)*
+
+          ***Dec 2021 - April 2022***
+
+          *   Python Developer - Odoo ERP
+
+              *@ Rened Consultancy and Trading PLC, Addis Ababa, Ethiopia*
+
         styles:
           self:
             textAlign: left
