@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Library - web application
+title: Library - Django Web Application
 colors: colors-a
 date: '2021-06-20'
 client: for libraries
